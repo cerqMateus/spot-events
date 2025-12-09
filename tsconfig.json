@@ -8,6 +8,7 @@
     "rootDir": "src",
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "types": ["vitest/globals"],
     "moduleDetection": "force",
     "baseUrl": ".",
     "paths": {
